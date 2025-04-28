@@ -1,2 +1,2 @@
 # Spotify-clone
-HTML and CSS 
+This is HTML and CSS for Spotify.
